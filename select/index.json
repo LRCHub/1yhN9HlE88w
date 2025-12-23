@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "I'll Dive Into You",
+  "base_artist": "LUCY",
+  "createdAt": "2025-12-23T02:57:13.922766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Dive Into You",
+      "artist": "LUCY",
+      "has_synced": false,
+      "path": "select/01_I'll_Dive_Into_You_LUCY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'll Dive Into You",
+      "artist": "LUCY",
+      "has_synced": false,
+      "path": "select/pl_01_I'll_Dive_Into_You_LUCY.txt"
+    }
+  ]
+}
